@@ -55,7 +55,7 @@ Example:
 }
 ```
 
-- Use anchorspdf to get the coordinates of the corresponding anchors and automatically create and enrich the related File Objects with the position attribute.
+- Use anchorspdf to get the coordinates of the corresponding anchors and automatically create and enrich the related File Objects with the position attribute using `enrich_field`function in `yousign.py`
 
 - Iter on the output to add the File Objects to the procedure
 
