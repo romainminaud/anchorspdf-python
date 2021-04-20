@@ -1,6 +1,6 @@
 # Yousign API v2 example
 
-This parsing tooling can be used for instance to automatically place signatures on dynamically generated PDF files.
+This parsing tool can be used for instance to automatically place signatures on dynamically generated PDF files.
 
 We show an example to use this technique with [Yousign API v2](https://dev.yousign.com/).
 
