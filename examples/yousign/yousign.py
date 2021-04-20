@@ -77,6 +77,7 @@ file_objects.append({
     'content': 'First Name',
     'anchor': "text1",
     'width': 150,
+    'height': 20
 })
 
 file_objects.append({
@@ -84,6 +85,7 @@ file_objects.append({
     'content': 'First Name',
     'anchor': "text2",
     'width': 150,
+    'height': 20
 })
 
 file_objects.append({
@@ -91,6 +93,7 @@ file_objects.append({
     'content': 'First Name',
     'anchor': "text3",
     'width': 150,
+    'height': 20
 })
 
 def enrich_field(field, anchors):

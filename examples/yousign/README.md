@@ -4,7 +4,7 @@ This parsing tooling can be used for instance to automatically place signatures 
 
 We show an example to use this technique with [Yousign API v2](https://dev.yousign.com/).
 
-For this example we provided a basic Python wrapper for using the API `examples/yousign-v2/client.py` but you can easily adaptat it to your own implementation.
+For this example we provided a basic Python wrapper for using the API `examples/yousign/client.py` but you can easily adaptat it to your own implementation.
 
 ## Pre-requesite
 

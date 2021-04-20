@@ -1,4 +1,4 @@
-# Anchors Pdf - Python
+# anchorspdf - Python
 
 A simple tool designed to give the coordinates of text anchors within PDF files.
 
